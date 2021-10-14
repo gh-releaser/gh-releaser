@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @gh-releaser
+- 👀 I’m interested in releasing
+- 🌱 I’m currently learning retrying network failures during release
+- 💞️ I’m looking to collaborate on releases
